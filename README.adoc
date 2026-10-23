@@ -1,5 +1,5 @@
 = dm-second-person
-:headline: The second person diff.me tests itself with
+:headline: The second person diff.me tests itself with (edited 14:05)
 :location: The internet
 :link-1: https://github.com/diff-me
 :open-to: Being tested, gently
