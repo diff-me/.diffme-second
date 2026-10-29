@@ -13,3 +13,32 @@ My latest posts on diff.me appear here.
 
 [.recommendations]
 The recommendations I show on diff.me appear here.
+
+[.project]
+--
+*diff-me/.diffme*
+
+https://github.com/diff-me/.diffme[diff-me/.diffme]
+--
+
+http://127.0.0.1:3001/dm-second-person/d227c8efddd8[Only people I mention can reply to this one. A test of who may reply.]
+
+[.project]
+--
+*A standing desk from a fallen oak mvtkeggg*
+
+_Spring 2026_
+
+Three weekends, one borrowed planer, and a lot of patience with the grain.
+
+image::media/893e7262d690.svg[The finished desk, from the side]
+--
+
+[.project]
+--
+*Grudge*
+
+An agent framework that keeps a conversation continuous.
+
+https://github.com/elijahmontenegro/grudge-ai[elijahmontenegro/grudge-ai]
+--
