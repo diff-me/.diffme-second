@@ -6,10 +6,10 @@
 
 dm-second-person on diff.me.
 
-== Experience
+I test diff.me from the inside, and write down what I find (mvtgnyxp).
 
-Test account at diff.me:: 2026-now
+[.latest]
+My latest posts on diff.me appear here.
 
-== Education
-
-Being a second person at diff.me:: 2026-now
+[.recommendations]
+The recommendations I show on diff.me appear here.
